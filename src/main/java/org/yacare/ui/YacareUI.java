@@ -45,7 +45,7 @@ public class YacareUI extends UI {
 		headerVH.setStyleName("header");
 		headerVH.addStyleName("header");
 
-		headerVH.addComponent(b);
+//		headerVH.addComponent(b);
 
 		 layout.addComponent(headerVH);
 

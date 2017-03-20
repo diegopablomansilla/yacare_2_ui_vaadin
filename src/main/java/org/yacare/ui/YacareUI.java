@@ -29,7 +29,7 @@ public class YacareUI extends UI {
 		VerticalLayout headerVH = new VerticalLayout();
 
 		headerVH.setHeight("400px");
-
+		
 		Button b = new Button("XXXXXX");
 		//
 		// FileResource resource = new FileResource(new
